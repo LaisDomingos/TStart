@@ -48,8 +48,3 @@ $ flutter pub get
 
 # Execute o aplicativo
 $ flutter run
-
-
-
-
-
