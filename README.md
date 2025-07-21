@@ -6,7 +6,7 @@ O TStart é um aplicativo desenvolvido em Dart para auxiliar bombeiros no regist
 
 ## Créditos
 
-A ideia e o design deste aplicativo foram concebidos por X e Y. A implementação do aplicativo foi realizada por Laís Santos.
+A ideia e o design deste aplicativo foram concebidos por alunas de Design de Multimédia. A implementação do aplicativo foi realizada por Laís Santos.
 
 ## Funcionalidades
 
